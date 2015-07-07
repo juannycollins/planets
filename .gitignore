@@ -1,4 +1,5 @@
 *.dat
 results/
 venus.txt
+f[123456].*
 
